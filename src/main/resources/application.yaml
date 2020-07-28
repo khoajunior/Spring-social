@@ -17,6 +17,9 @@ spring:
       client:
         registration:
           google:
+#            clientId: 451097755598-04c8v4ee88o0etdi1id2ub9at3u44skj.apps.googleusercontent.com
+#            clientSecret: IAQRtpN7UirW4fFWxL2yYIJL
+#            redirectUri: "{baseUrl}/oauth2/callback/{registrationId}"
             clientId: 451097755598-04c8v4ee88o0etdi1id2ub9at3u44skj.apps.googleusercontent.com
             clientSecret: IAQRtpN7UirW4fFWxL2yYIJL
             redirectUri: "{baseUrl}/oauth2/callback/{registrationId}"
